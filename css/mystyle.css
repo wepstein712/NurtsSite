@@ -11,8 +11,8 @@ Fonts
 
 
 * {
-	color: black 
-	font-family:"Cambria" "serif"; 
+	color: black;
+	font-family:"serif";
 	margin-bottom: 0;
 }
 
@@ -102,7 +102,7 @@ footer {
 	color: #ffda00;
 }
 
-#page_header {
+.page_header{
 	text-align: center; 
 	color: #8e0f11; 
 	text-shadow: -1px 0 #ffda00, 0 1px #ffda00, 1px 0 #ffda00, 0 -1px #ffda00;
